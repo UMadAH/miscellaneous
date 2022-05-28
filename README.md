@@ -1,1 +1,1 @@
-# codes & deprecated & fun
+# old codes & deprecated
